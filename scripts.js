@@ -5,7 +5,7 @@ const musicData = [
         title: "Babaçu Livre",
         duration: "4:04",
         file: "babacu_livre.mp3",
-        youtube: "https://youtube.com/watch?v=zleD_uqTW74&feature=shared",
+        youtube: "https://youtu.be/P9dTg7QDsPA?si=q2xuZdkx2QmAX8Eq",
         download: "playlist/babacu_livre.mp3"
     },
     {
