@@ -2,7 +2,7 @@
 const musicData = [
     {
         id: 1,
-        title: "Babacu Livre",
+        title: "Babaçu Livre",
         duration: "4:04",
         file: "babacu_livre.mp3",
         youtube: "",
